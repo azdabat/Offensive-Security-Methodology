@@ -1,7 +1,10 @@
 # Offensive Security RCE Field Manual — Part 1
 ## HTTP, JSON & XML RCE (2025 Edition)
 *A deep-dive into modern Remote Code Execution attack surfaces, delivery methods, real-world attacker workflow, and offensive security tradecraft.*
-
+---
+# LEGAL DISCLAIMER
+This document is for **authorized offensive testing, red teaming, cyber defense training, and research only**.  
+Do not use these techniques without explicit written permission. Unauthorized testing is illegal.
 ---
 
 # Table of Contents
