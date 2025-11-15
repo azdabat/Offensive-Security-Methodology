@@ -1,7 +1,10 @@
 # Offensive Security RCE Field Manual — Part 2
 ## SSRF → RCE & Template Injection (SSTI) — 2025 Edition
 *A comprehensive offensive security guide covering Server-Side Request Forgery (SSRF) exploitation, pivoting to internal RCE, cloud metadata abuse, modern template injection (SSTI), and real-world exploitation chains used by adversaries in 2025.*
-
+---
+# LEGAL DISCLAIMER
+This document is for **authorized offensive testing, red teaming, cyber defense training, and research only**.  
+Do not use these techniques without explicit written permission. Unauthorized testing is illegal.
 ---
 
 # Table of Contents
